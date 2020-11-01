@@ -1,5 +1,5 @@
 # I extracted the given dataset beforehand to make my work easier.
-# reshape2 package should be installed before running this script. 
+# reshape2 package should be installed before running this script.
 library(reshape2)
 targetFolder <- 'UCI HAR Dataset'
 # 1. Merges the training and the test sets to create one data set.
